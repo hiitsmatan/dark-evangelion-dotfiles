@@ -68,9 +68,12 @@
 - [Zsh config](.zshrc)
 
 <br>
-<br>  
+<br>
+<br>
 
 ## Spotify 🎧
 <img src="assets/showoff3.png" align="right" width="400px">
+
 - [Spicetify](https://spicetify.app/)
 - [Dribbblish Dynamic Theme](https://github.com/JulienMaille/dribbblish-dynamic-theme)
+
