@@ -51,7 +51,7 @@
 
 <img src="assets/alacritty2.png" width="400px" align="right">
 
-- [Alacritty config](https://github.com/ghostx31/dotfiles/tree/main/privat_dot_config/com.github.johnfactotum.Foliate/themes.json)
+- [Alacritty config](alacritty.yml)
 
 
 <br>
@@ -65,23 +65,12 @@
 <br>
 
 ## Zsh 🌐
-- [Zsh config]()
-
-
+- [Zsh config](.zshrc)
 
 <br>
 <br>  
 
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-<br>
-
 ## Spotify 🎧
 <img src="assets/showoff3.png" align="right" width="400px">
-
+- [Spicetify](https://spicetify.app/)
 - [Dribbblish Dynamic Theme](https://github.com/JulienMaille/dribbblish-dynamic-theme)
