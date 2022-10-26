@@ -3,8 +3,8 @@
 </p>
 <br>
 
-<img src="assets/out.png" align="right" width="400px">
-<img src="assets/out.png" align="right" width="400px">
+<img src="assets/showoff1.png" align="right" width="400px">
+<img src="assets/NRML.png" align="middle" width="400px">
 
 ### About my setup:
 - OS: Fedora 36
@@ -14,6 +14,7 @@
 - Colorscheme: [Tokyo-Storm-BL-LB](https://github.com/stronk-dev/Tokyo-Night-Linux)
 - Icons: Tela-purple-dark
 - Spotify: Spicetify
+- IDE: NeoVim
 
 ### Extensions I use: 
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
@@ -29,47 +30,10 @@
 # Application configs: 
 
 ## AstroVim 🖊️
-<img src="assets/lvim.png" align="right" width="400px">
+<img src="assets/astrovim-menu.png" align="right" width="400px">
+<img src="assets/astrovim-code.png" align="right" width="400px">
 
-- [LunarVim config](https://github.com/ghostx31/dotfiles/tree/main/private_dot_config/lvim)
-
-<br>
-<br>  
-
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-
-## Alacritty 📔️ 
-
-<img src="assets/foliate.png" width="400px" align="right">
-
-- [Foliate](https://github.com/ghostx31/dotfiles/tree/main/privat_dot_config/com.github.johnfactotum.Foliate/themes.json)
-
-
-<br>
-<br>  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## Zsh 🌐️
-<img src="assets/firefox.png"  align="right" width="400px">
-
-- Based on [cascade](https://github.com/andreasgrafen/cascade): [Config](https://github.com/ghostx31/dotfiles/tree/main/firefox)
-- Startpage: [Dawn](https://dawn.spookyintheam.codes/)
-
-
+- [AstroVim (Neovim) config](https://github.com/AstroNvim/AstroNvim)
 
 <br>
 <br>  
@@ -82,8 +46,43 @@
 <br>
 <br>
 <br>
+<br>
 
-## Spotify 💻️ 
-<img src="assets/wezterm.png" align="right" width="400px">
+## Alacritty ⌨️
+
+<img src="assets/alacritty2.png" width="400px" align="right">
+
+- [Alacritty config](https://github.com/ghostx31/dotfiles/tree/main/privat_dot_config/com.github.johnfactotum.Foliate/themes.json)
+
+
+<br>
+<br>  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Zsh 🌐
+- [Zsh config]()
+
+
+
+<br>
+<br>  
+
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
+## Spotify 🎧
+<img src="assets/showoff3.png" align="right" width="400px">
 
 - [Dribbblish Dynamic Theme](https://github.com/JulienMaille/dribbblish-dynamic-theme)
