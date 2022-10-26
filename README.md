@@ -18,9 +18,9 @@
 ### Extensions I use: 
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
-- [Caffeine](https://extensions.gnome.org/extension/1732/gtk-title-bar/)
-- [Gnome Clipboard](https://extensions.gnome.org/extension/3843/just-perfection/)
-- [Media Controls](https://extensions.gnome.org/extension/4451/logo-menu/)
+- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
+- [Gnome Clipboard](https://extensions.gnome.org/extension/4422/gnome-clipboard/)
+- [Media Controls](https://extensions.gnome.org/extension/4470/media-controls/)
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
  
@@ -72,7 +72,7 @@
 <br>
 
 ## Spotify 🎧
-<img src="assets/showoff3.png" align="right" width="400px">
+<img src="assets/spicetify.png" align="right" width="400px">
 
 - [Spicetify](https://spicetify.app/)
 - [Dribbblish Dynamic Theme](https://github.com/JulienMaille/dribbblish-dynamic-theme)
