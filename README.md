@@ -3,8 +3,7 @@
 </p>
 <br>
 
-<img src="assets/showoff1.png" align="right" width="400px">
-<img src="assets/NRML.png" align="middle" width="400px">
+<img src="assets/nrmlshowoff.png" align="right" width="400px">
 
 ### About my setup:
 - OS: Fedora 36
